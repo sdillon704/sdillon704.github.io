@@ -2,7 +2,8 @@
 go away
 
 ---
-##Header2
+## Header2
+
 `here is some code`
 
 This is a list:
@@ -23,5 +24,6 @@ This is a nested/numbered list
      * blabla
 
 --- 
-##Header3
+## Header3
 
+![Cool Picture](./Assets/coolpic.png)
