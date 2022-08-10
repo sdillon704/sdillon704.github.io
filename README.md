@@ -15,8 +15,8 @@ This is a nested/numbered list
 1. item1
    * hahah
 2. item2
-   *hohoho
-   *hehehe
+   * hohoho
+   * hehehe
 3. item3
    * lalala
    * bebebe
