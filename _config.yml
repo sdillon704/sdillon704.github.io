@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
 title: Red Sentinel Home Base
+github:
+  is_project_page: false
