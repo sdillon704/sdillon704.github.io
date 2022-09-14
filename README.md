@@ -2,14 +2,10 @@
 go away
 
 ---
-## Header2
-
-`here is some code`
-
-This is a list:
-* item1
-* item2
-* item3
+## Ideas for site
+* front end for distriputed scanner
+* Project display page
+* Cyber Sentinel site
 
 This is a nested/numbered list
 1. item1
@@ -24,6 +20,6 @@ This is a nested/numbered list
      * blabla
 
 --- 
-## Header3
+## Example picture
 
 ![Cool Picture](./Assets/coolpic.png)
