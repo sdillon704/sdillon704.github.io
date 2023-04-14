@@ -5,9 +5,8 @@
 ## About Us
 [insert description]
 
----
-
 ![dojo](./Assets/dojo.png)
+
 --- 
 ## Coaches (Senseis)
 
