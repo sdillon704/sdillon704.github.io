@@ -5,11 +5,14 @@
 ## About Us
 [insert description]
 
+---
+
 ![dojo](./Assets/dojo.png)
 --- 
 ## Coaches (Senseis)
 
 * Sensei [insert name]
+
 ![sensei1](./Assets/sensei1.png)
 
   * [Bio]
@@ -17,6 +20,7 @@
   * [accolade 2]
   
 * Sensei [insert name]
+
 ![sensei2](./Assets/sensei2.png)
 
   * [Bio]
