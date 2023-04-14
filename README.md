@@ -1,25 +1,29 @@
-# Property of Cyber Sentinels
-go away
+# Bridgerland Judo Club
+![logo](./Assets/logo.png)
 
 ---
-## Ideas for site
-* front end for distriputed scanner
-* Project display page
-* Cyber Sentinel site
+## About Us
+[insert description]
 
-This is a nested/numbered list
-1. item1
-   * hahah
-2. item2
-   * hohoho
-   * hehehe
-3. item3
-   * lalala
-   * bebebe
-     * yeyeye
-     * blabla
-
+![dojo](./Assets/dojo.png)
 --- 
-## Example picture
+## Coaches (Senseis)
 
-![Cool Picture](./Assets/coolpic.png)
+* Sensei [insert name]
+![sensei1](./Assets/sensei1.png)
+
+  * [Bio]
+  * [accolade 1]
+  * [accolade 2]
+  
+* Sensei [insert name]
+![sensei2](./Assets/sensei2.png)
+
+  * [Bio]
+  * [accolade 1]
+
+## Contact Us
+[insert information]
+[insert location]
+
+![team pic](./Assets/team.png)
