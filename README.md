@@ -7,7 +7,7 @@
 [insert description]
 
 <p align="center">
-<img width="500" src="./Assets/dojo.png">
+<img width="900" src="./Assets/dojo.png">
 </p>
 
 
