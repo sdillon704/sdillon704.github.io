@@ -36,6 +36,7 @@
 ---
 ## Contact Us
 [insert information]
+
 [insert location]
 
 <p align="center">
