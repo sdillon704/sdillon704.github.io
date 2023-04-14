@@ -1,4 +1,3 @@
-# Welcome To The Bridgerland Judo Club!
 ![logo](./Assets/logo.png)
 
 ---
