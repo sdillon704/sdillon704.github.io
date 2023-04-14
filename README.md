@@ -7,7 +7,7 @@
 [insert description]
 
 <p align="center">
-![dojo](./Assets/dojo.png)
+<img width="400" src="./Assets/dojo.png">
 </p>
 
 
@@ -17,7 +17,7 @@
 * ###Sensei [insert name]
 
 <p align="center">
-![sensei1](./Assets/sensei1.png)
+<img width="400" src="./Assets/sensei1.png">
 </p>
 
   * [Bio]
@@ -27,7 +27,7 @@
 * ###Sensei [insert name]
 
 <p align="center">
-![sensei2](./Assets/sensei2.png)
+<img width="400" src="./Assets/sensei2.png">
 </p>
 
   * [Bio]
@@ -38,5 +38,5 @@
 [insert location]
 
 <p align="center">
-![team pic](./Assets/team.png)
+<img width="400" src="./Assets/team.png">
 </p>
