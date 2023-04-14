@@ -1,4 +1,4 @@
-# Bridgerland Judo Club
+# Welcome to Bridgerland Judo Club!
 ![logo](./Assets/logo.png)
 
 ---
@@ -20,6 +20,8 @@
   * [accolade 2]
   
 * Sensei [insert name]
+
+
 
 ![sensei2](./Assets/sensei2.png)
 
