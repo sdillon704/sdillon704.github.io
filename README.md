@@ -12,7 +12,7 @@
 
 
 --- 
-## Coaches (Senseis)
+## Instructors
 
 * ###Sensei [insert name]
 
