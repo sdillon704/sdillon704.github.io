@@ -47,6 +47,7 @@
 ---
 ## Contact Us
 Email: Bridgerlandjudo@gmail.com
+
 Location: Whittier Community Center (*290 N 400 E, Logan, UT 84321*)
 
 
