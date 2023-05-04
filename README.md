@@ -53,6 +53,6 @@ Classes will be held on Mondays and Wednesdays. <br>
 
 ---
 > ## Contact Us
-**Instagram:** @bridgerland_judo_club <br>
+**Instagram/Facebook:** @bridgerland_judo_club <br>
 **Email:** Bridgerlandjudo@gmail.com <br>
 **Location:** Whittier Community Center, Room 5 (*290 N 400 E, Logan, UT 84321*)
