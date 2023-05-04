@@ -3,13 +3,12 @@
 </p>
 
 ---
-<p align="center">
-## About Us
+> ## About Us
 Welcome to Bridgerland Judo Club, a community-centered martial arts organization dedicated to promoting the sport of Judo in a safe and welcoming environment. Our club is committed to providing a supportive and inclusive space for individuals of all skill levels to learn, grow, and succeed!
  
 At Bridgerland Judo Club, we pride ourselves on our team of highly qualified and dedicated instructors. Our instructors are SafeSport certified and are passionate about sharing their knowledge and experience with others. We believe that Judo is more than just a sport; it's a way of life. We are committed to fostering a sense of community and camaraderie among our members.
-</p>
-## Class Times
+
+> ## Class Times
 Classes will be held on Mondays and Wednesdays. <br>
 **Beginner:** 6-7 pm <br>
 **Advanced:** 7-8 pm
@@ -20,9 +19,9 @@ Classes will be held on Mondays and Wednesdays. <br>
 
 
 --- 
-## Instructors
+> ## Instructors
 
-### Sensei Sarah Shaw
+> ### Sensei Sarah Shaw
 
 <p align="center">
 <img width="400" src="./Assets/sensei1.png">
@@ -32,7 +31,7 @@ Classes will be held on Mondays and Wednesdays. <br>
   * She has made significant contributions to the Judo community, both as an instructor and a regional referee.
   * Sarah has taught Judo at Utah State University, where she has helped many students develop a passion for the sport.
   
-### Sensei Thomas Shaw
+> ### Sensei Thomas Shaw
 
 <p align="center">
 <img width="400" src="./Assets/sensei2.png">
@@ -42,7 +41,7 @@ Classes will be held on Mondays and Wednesdays. <br>
   * He is a nationally ranked competitor and has medaled on the national podium.
   * As a respected mentor to fellow practitioners, he inspires and motivates the next generation of athletes to push the boundaries of what is possible.
   
-### Sensei Anthony Shaw
+> ### Sensei Anthony Shaw
 
 <p align="center">
 <img width="400" src="./Assets/sensei3.png">
@@ -53,7 +52,7 @@ Classes will be held on Mondays and Wednesdays. <br>
   * With a formidable record of victories, Anthony has proven himself to be a true force in the Judo world.
 
 ---
-## Contact Us
+> ## Contact Us
 
 Instagram: @bridgerland_judo_club <br>
 Email: Bridgerlandjudo@gmail.com <br>
