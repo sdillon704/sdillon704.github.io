@@ -3,7 +3,7 @@
 </p>
 
 ---
-## About Us
+## " " About Us
 [insert description]
 
 <p align="center">
