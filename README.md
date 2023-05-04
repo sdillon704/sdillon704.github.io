@@ -14,7 +14,7 @@ Classes will be held on Mondays and Wednesdays.
  **Advanced:** 7-8 pm
 
 <p align="center">
-<img width="400" src="./Assets/dojo3.jpg">
+<img width="800" src="./Assets/dojo3.jpg">
 </p>
 
 
