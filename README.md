@@ -53,7 +53,7 @@ Welcome to Briderland Judo Club, a community-centered martial arts organization 
 ## Contact Us
 Email: Bridgerlandjudo@gmail.com
 
-Location: Whittier Community Center Room 5 (*290 N 400 E, Logan, UT 84321*)
+Location: Whittier Community Center, Room 5 (*290 N 400 E, Logan, UT 84321*)
 
 
 
