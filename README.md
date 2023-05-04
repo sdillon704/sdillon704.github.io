@@ -3,11 +3,12 @@
 </p>
 
 ---
+<p align="center">
 ## About Us
 Welcome to Bridgerland Judo Club, a community-centered martial arts organization dedicated to promoting the sport of Judo in a safe and welcoming environment. Our club is committed to providing a supportive and inclusive space for individuals of all skill levels to learn, grow, and succeed!
-
+ 
 At Bridgerland Judo Club, we pride ourselves on our team of highly qualified and dedicated instructors. Our instructors are SafeSport certified and are passionate about sharing their knowledge and experience with others. We believe that Judo is more than just a sport; it's a way of life. We are committed to fostering a sense of community and camaraderie among our members.
-
+</p>
 ## Class Times
 Classes will be held on Mondays and Wednesdays. <br>
 **Beginner:** 6-7 pm <br>
