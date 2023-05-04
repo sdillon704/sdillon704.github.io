@@ -3,8 +3,13 @@
 </p>
 
 ---
-##   About Us
-[insert description]
+## About Us
+Welcome to Briderland Judo Club, a community-centered martial arts organization dedicated to promoting the sport of Judo in a safe and welcoming environment. Our club is committed to providing a supportive and inclusive space for individuals of all skill levels to learn, grow, and succeed!
+
+## Class Times
+
+### **Beginner:** 6-7 pm
+### **Advanced:** 7-8 pm
 
 <p align="center">
 <img width="900" src="./Assets/dojo3.jpg">
@@ -48,7 +53,7 @@
 ## Contact Us
 Email: Bridgerlandjudo@gmail.com
 
-Location: Whittier Community Center (*290 N 400 E, Logan, UT 84321*)
+Location: Whittier Community Center Room 5 (*290 N 400 E, Logan, UT 84321*)
 
 
 
