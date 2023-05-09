@@ -31,15 +31,15 @@ Classes will be held on Mondays and Wednesdays. <br>
   * She has made significant contributions to the Judo community, both as an instructor and a regional referee.
   * Sarah has taught Judo at Utah State University, where she has helped many students develop a passion for the sport.
   
-> ### Sensei Thomas Shaw
+> ### Sensei Cal Baker
 
 <p align="center">
 <img width="400" src="./Assets/sensei2.png">
 </p>
 
-  * Thomas's journey in Judo began at the age of four, and since then, he has become a force to be reckoned with in the sport.
-  * He is a nationally ranked competitor and has medaled on the national podium.
-  * As a respected mentor to fellow practitioners, he inspires and motivates the next generation of athletes to push the boundaries of what is possible.
+  * Cal Baker is a dedicated Judo practitioner with 9 years of experience in the sport. 
+  * He is a skilled instructor who has taught Judo at Utah State University and a proud silver medalist in the Intermountain States Judo Tournament. 
+  * Cal is passionate about sharing his knowledge and love for Judo with others, and his dedication to teaching inspires his students to achieve their goals.
   
 > ### Sensei Anthony Shaw
 
