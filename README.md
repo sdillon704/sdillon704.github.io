@@ -9,9 +9,10 @@ Welcome to Bridgerland Judo Club, a community-centered martial arts organization
 At Bridgerland Judo Club, we pride ourselves on our team of highly qualified and dedicated instructors. Our instructors are SafeSport certified and are passionate about sharing their knowledge and experience with others. We believe that Judo is more than just a sport; it's a way of life. We are committed to fostering a sense of community and camaraderie among our members.
 
 > ## Class Times
-Classes will be held on Mondays and Wednesdays. <br>
+Classes will be held on Mondays and Wednesdays with a conditioning class on Fridays. <br>
 **Beginner:** 6-7 pm <br>
-**Advanced:** 7-8 pm
+**Advanced:** 7-8 pm <br>
+**Friday Conditioning:** 6-7 pm
 
 <p align="center">
 <img width="800" src="./Assets/dojo3.jpg">
