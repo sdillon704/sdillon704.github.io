@@ -54,6 +54,6 @@ Classes will be held on Mondays and Wednesdays with a conditioning class on Frid
 
 ---
 > ## Contact Us
-**Instagram/Facebook:** @bridgerland_judo_club <br>
+**Instagram/Facebook:** [@bridgerland_judo_club](https://www.instagram.com/bridgerland_judo_club)  <br>
 **Email:** Bridgerlandjudo@gmail.com <br>
 **Location:** Whittier Community Center, Room 5 (*290 N 400 E, Logan, UT 84321*)
