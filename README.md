@@ -26,7 +26,7 @@ Classes will be held on Mondays and Wednesdays with a conditioning class on Frid
 --- 
 > ## Instructors
 
-> ### Sensei Sarah Shaw
+> <font size= "10"> Sensei Sarah Shaw </font>
 
 <p align="center">
 <img width="400" src="./Assets/sensei1.png">
@@ -55,6 +55,12 @@ Classes will be held on Mondays and Wednesdays with a conditioning class on Frid
   * Anthony is an elite Judo athlete who achieved national recognition as the number 2 IJF super heavyweight in the United States.
   * He has represented his country with distinction in the 2022 Pan-American games.
   * With a formidable record of victories, Anthony has proven himself to be a true force in the Judo world.
+
+---
+> ## Pricing
+<p align="center">
+<img width="600" src="./Assets/price.png">
+</p>
 
 ---
 > ## Contact Us
