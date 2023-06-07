@@ -27,7 +27,7 @@ Classes will be held on Mondays and Wednesdays with a conditioning class on Frid
 > ## Instructors
 
 <p align="center">
- <font size= "8"> <em> Sensei Sarah Shaw </em> </font>
+ <font size= "7"> <em> Sensei Sarah Shaw </em> </font>
 </p>
 
 <p align="center">
@@ -38,7 +38,9 @@ Classes will be held on Mondays and Wednesdays with a conditioning class on Frid
   * She has made significant contributions to the Judo community, both as an instructor and a regional referee.
   * Sarah has taught Judo at Utah State University, where she has helped many students develop a passion for the sport.
   
-> ### Sensei Cal Baker
+<p align="center">
+ <font size= "7"> <em> Sensei Cal Baker </em> </font>
+</p>
 
 <p align="center">
 <img width="400" src="./Assets/sensei2.png">
@@ -48,7 +50,9 @@ Classes will be held on Mondays and Wednesdays with a conditioning class on Frid
   * He is a skilled instructor who has taught Judo at Utah State University and a proud silver medalist in the Intermountain States Judo Tournament. 
   * Cal is passionate about sharing his knowledge and love for Judo with others, and his dedication to teaching inspires his students to achieve their goals.
   
-> ### Sensei Anthony Shaw
+<p align="center">
+ <font size= "7"> <em> Sensei Anthony Shaw </em> </font>
+</p>
 
 <p align="center">
 <img width="400" src="./Assets/sensei3.png">
