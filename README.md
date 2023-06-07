@@ -27,7 +27,7 @@ Classes will be held on Mondays and Wednesdays with a conditioning class on Frid
 > ## Instructors
 
 <p align="center">
- <font size= "8"> Sensei Sarah Shaw </font>
+ <font size= "8"> <em> Sensei Sarah Shaw </em> </font>
 </p>
 
 <p align="center">
