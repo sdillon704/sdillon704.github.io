@@ -20,7 +20,7 @@ Classes will be held on Mondays and Wednesdays with a conditioning class on Frid
 **Friday Conditioning:** 6 pm - 7 pm
 
 <p align="center">
-<img width="800" src="./Assets/judo-calender.png">
+<img width="800" src="./Assets/judo-calendar.png">
 </p>
 
 --- 
