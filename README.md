@@ -45,7 +45,7 @@ Classes will be held on Mondays and Wednesdays with a conditioning class on Frid
 </p>
 
 <p align="center">
-<img width="400" src="./Assets/sensei2.png">
+<img width="400" src="./Assets/sensei2.jpg">
 </p>
 
   * Cal Baker is a dedicated Judo practitioner with 9 years of experience in the sport. 
@@ -58,7 +58,7 @@ Classes will be held on Mondays and Wednesdays with a conditioning class on Frid
 </p>
 
 <p align="center">
-<img width="400" src="./Assets/sensei3.png">
+<img width="400" src="./Assets/sensei3.jpg">
 </p>
 
   * Anthony is an elite Judo athlete who achieved national recognition as the number 2 IJF super heavyweight in the United States.
