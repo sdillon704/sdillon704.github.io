@@ -68,7 +68,7 @@ Classes will be held on Mondays and Wednesdays with a conditioning class on Frid
 ---
 > ## Pricing
 <p align="center">
-<img width="600" src="./Assets/price.png">
+<img width="600" src="./Assets/pricing.png">
 </p>
 
 ---
