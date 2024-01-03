@@ -14,7 +14,6 @@ At Bridgerland Judo Club, we pride ourselves on our team of highly qualified and
 
 > ## Class Times
 Classes will be held on Mondays and Wednesdays with a conditioning class on Fridays. <br>
-**Kids:** (ages 5 to 12) 5 pm - 6 pm <br>
 **Beginner:** 6 pm - 7 pm <br>
 **Advanced:** 7 pm - 8 pm <br>
 **Friday Conditioning:** 6 pm - 7 pm
