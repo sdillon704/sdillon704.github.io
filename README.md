@@ -13,7 +13,14 @@ At Bridgerland Judo Club, we pride ourselves on our team of highly qualified and
 </p>
 
 > ## Class Times
-Classes will be held on Mondays and Wednesdays with a conditioning class on Fridays. <br>
+Summer classes will be held on Mondays and Wednesdays. <br>
+**All Skill Levels:** 6 pm - 7:30 pm <br>
+
+<p align="center">
+<img width="800" src="./Assets/Summer hours.png">
+</p>
+
+Fall through Spring classes will be held on Mondays and Wednesdays with a conditioning class on Fridays. <br>
 **Beginner:** 6 pm - 7 pm <br>
 **Advanced:** 7 pm - 8 pm <br>
 **Friday Conditioning:** 6 pm - 7 pm
